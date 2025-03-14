@@ -2,5 +2,10 @@
 *.css linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
+*.php linguist-detectable=true
+*.blade.php linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+*.html linguist-detectable=true\
 CHANGELOG.md export-ignore
 
